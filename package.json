@@ -1,0 +1,20 @@
+{
+  "name": "symlink-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ls -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TooTallNate/symlink-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/symlink-test/issues"
+  },
+  "homepage": "https://github.com/TooTallNate/symlink-test#readme"
+}
