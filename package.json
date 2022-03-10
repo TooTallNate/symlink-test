@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "ls -l"
+    "build": "mkdir -p public && ls -l | tee public/index.txt"
   },
   "repository": {
     "type": "git",
